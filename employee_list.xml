@@ -1,0 +1,32 @@
+<employees>
+	<employee>
+		<id>1</id>
+		<firstName>Swagata</firstName>
+		<lastName>Chandra</lastName>
+		<email>swagata.chandra@example.com</email>
+		<department>Data Analytics</department>
+		<designation>Data Analyst</designation>
+		<salary>60000</salary>
+		<joiningDate>2024-01-15</joiningDate>
+	</employee>
+	<employee>
+		<id>2</id>
+		<firstName>Rahul</firstName>
+		<lastName>Sharma</lastName>
+		<email>rahul.sharma@example.com</email>
+		<department>IT</department>
+		<designation>Software Engineer</designation>
+		<salary>75000</salary>
+		<joiningDate>2023-08-10</joiningDate>
+	</employee>
+	<employee>
+		<id>3</id>
+		<firstName>Anita</firstName>
+		<lastName>Verma</lastName>
+		<email>anita.verma@example.com</email>
+		<department>HR</department>
+		<designation>HR Manager</designation>
+		<salary>65000</salary>
+		<joiningDate>2022-05-20</joiningDate>
+	</employee>
+</employees>
